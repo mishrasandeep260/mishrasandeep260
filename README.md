@@ -1,6 +1,5 @@
 - 👋 Hi, I’m sandeep mishra
 - 👀 I’m interested in ETL
-- 🌱 I’m currently learning Data Modeling
 - 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me @mishrasandeep260@gmail.com  
 - ⚡ From New Delhi, India
